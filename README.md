@@ -27,7 +27,7 @@ If you would rather use something other than Visual Studio
 - Using Material UI for developing data grid with sort, search, drga and drop columns and action buttons. 
 - Actions to retrieve data from the database, Add data to the database, Update existing data, Remove data from the database
 
-# Web Api (Run Api on Server)
+## Web Api (Run Api on Server)
 
 - The project has been generated with .Net Core 5.0 as Web Api regarding to CRUD operations on server.
 - The database is mocked up and all the data about the ships can be found in the ships.json file in the root folder of the project.
